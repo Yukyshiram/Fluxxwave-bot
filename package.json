@@ -1,0 +1,29 @@
+{
+  "name": "fluxxwave_bot",
+  "version": "1.0.0",
+  "description": "That is a bad idea, but I liked the bad ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukyshiram/Fluxxwave-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "baileys",
+    "skl",
+    "NextSKL"
+  ],
+  "author": "Im_JVallejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yukyshiram/Fluxxwave-bot/issues"
+  },
+  "homepage": "https://github.com/Yukyshiram/Fluxxwave-bot#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
